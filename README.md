@@ -28,7 +28,7 @@
 > 
 ![css](https://user-images.githubusercontent.com/26192840/146857346-19925fa3-1ef4-484f-87b8-59b1bab8abc6.gif)
 
-#### Day 4 - Statistics [In Progress]
+#### Day 5 - Statistics [In Progress]
 > Challenge: https://100dayscss.com/days/5/
 > 
 > Submission: https://codepen.io/kwongsunny/pen/MWEEWOV
