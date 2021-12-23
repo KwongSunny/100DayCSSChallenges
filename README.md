@@ -32,3 +32,5 @@
 > Challenge: https://100dayscss.com/days/5/
 > 
 > Submission: https://codepen.io/kwongsunny/pen/MWEEWOV
+> 
+![image](https://user-images.githubusercontent.com/26192840/147289751-3054d470-dcc9-469c-9ced-fd41b118ccfa.png)
